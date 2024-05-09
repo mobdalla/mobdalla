@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mobdalla
-- 👀 I’m interested in  
-- 🌱 I’m currently learning python , php ,
-- 💞️ I’m looking to collaborate on c++/python
+- 👀 I’m interested in basketball, chess  
+- 🌱 I’m currently learning python , php , java
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me sud.mabdalla@gmail.com
 
 <!---
