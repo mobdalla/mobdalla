@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mustafa
 - 👀 I’m interested in basketball, chess  
-- 🌱 I’m currently learning python , php , java
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m currently using java , javascript , php 
 - 📫 How to reach me sud.mabdalla@gmail.com
 
 <!---
